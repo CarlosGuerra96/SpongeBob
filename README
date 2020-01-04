@@ -1,0 +1,6 @@
+echo "# SpongeBob" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CarlosGuerra96/SpongeBob.git
+git push -u origin master
